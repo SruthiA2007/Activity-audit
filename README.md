@@ -1,6 +1,6 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-### Name : SELVARANI S
-### Reg No : 212224040301
+### Name : SRUTHI A
+### Reg No : 212224240162
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
